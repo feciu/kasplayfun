@@ -5,7 +5,7 @@
 > IMPOSSIBLE ON ANY OTHER CHAIN.
 > Instant speed. Thousands of transactions. Near-zero cost.
 
-**Live:** [kasplay.fun](https://kasplay.fun)
+**Live:** [kasplay.fun](https://kasplay.fun) | **Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=_J6380pvVOU)
 
 ---
 
@@ -26,6 +26,8 @@ KasPlay stores every score directly on the Kaspa BlockDAG. Once submitted, a sco
 - **Verifiable** - anyone can decode the transaction payload and confirm the score
 - **Transparent** - all game data is publicly auditable on Kaspa Explorer
 - **Permanent** - scores exist as long as the Kaspa network exists
+
+Don't trust us? Run the [On-Chain Score Indexer](indexer/) yourself and read the scores straight from the blockchain.
 
 ### Why Kaspa?
 
@@ -170,6 +172,7 @@ This makes KasPlay one of the most cost-efficient blockchain applications in exi
 ## Links
 
 - **Live App:** [kasplay.fun](https://kasplay.fun)
+- **Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=_J6380pvVOU)
 - **Kaspa:** [kaspa.org](https://kaspa.org)
 - **Kaspa Explorer:** [explorer.kaspa.org](https://explorer.kaspa.org)
 - **Telegram Bot:** Search for KasPlay in Telegram
