@@ -139,6 +139,22 @@ See [PROTOCOL.md](PROTOCOL.md) for the full specification including:
 
 ---
 
+## On-Chain Score Indexer
+
+Want to verify scores yourself? The [`indexer/`](indexer/) tool reads KasPlay scores directly from the Kaspa BlockDAG — no server access needed.
+
+```bash
+cd indexer
+node index.mjs                    # Show last 50 scores
+node index.mjs --game tetris      # Filter by game
+node index.mjs --weeks-only       # Show weekly snapshots
+node index.mjs --json             # JSON output
+```
+
+Zero dependencies. Requires only Node.js 18+. See [indexer/README.md](indexer/README.md) for full documentation.
+
+---
+
 ## Cost Analysis
 
 KasPlay demonstrates Kaspa's viability for high-throughput micro-transactions:

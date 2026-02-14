@@ -1,0 +1,14 @@
+{
+  "name": "kasplay-indexer",
+  "version": "1.0.0",
+  "description": "On-chain score indexer for KasPlay - reads and verifies game scores directly from the Kaspa BlockDAG",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "scores": "node index.mjs",
+    "weekly": "node index.mjs --weeks-only"
+  },
+  "keywords": ["kaspa", "blockchain", "gaming", "scores", "indexer"],
+  "license": "MIT"
+}
