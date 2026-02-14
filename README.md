@@ -15,6 +15,8 @@ KasPlay is an arcade gaming platform where every game score is permanently recor
 
 No tokens. No NFTs. No DeFi gimmicks. Just pure gaming with blockchain-grade integrity.
 
+This repo includes an [On-Chain Score Indexer](indexer/) — a standalone tool that lets anyone read and verify KasPlay scores directly from the Kaspa blockchain, with zero dependencies.
+
 ### The Problem
 
 Traditional gaming leaderboards are centralized, opaque, and easily manipulated. Scores can be altered, deleted, or faked by server admins. Players have no way to independently verify that leaderboards are fair.
